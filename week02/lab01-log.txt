@@ -1,0 +1,16 @@
+  285  which python3
+  286  man ls
+  287  man man
+  288  cd cod<Tab>
+  289  history
+  290  python3
+  291  cd ~/coding-cafe\nhistory > week02/lab01-log.txt
+  292  cd ~/coding-cafe\n
+  293  history > week02/lab01-log.txt
+  294  nano week02/notes.md
+  295  cp week02/notes.md ~/Desktop/
+  296  cp week02/lab01-log.txt ~/Desktop/
+  297  ls ~/Desktop
+  298  cp week02/notes.md ~/Desktop/
+  299  cp week02/lab01-log.txt ~/Desktop/
+  300  ls ~/Desktop
